@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+logs/
+node_modules/
+dist/
+build/
+inputs/
+outputs/
+profile/
